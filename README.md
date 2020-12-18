@@ -1,9 +1,7 @@
 # manage.engineer
 Manage engineers and schedules with Smartsheet and other integrations.
 
-Authored by Hunter (@hsotbf). This is alpha software. Contributions much appreciated!
-
-## NOTE: THIS REPO CONTAINS PRIVATE KEYS. THIS REPO IS MEANT FOR INTERNAL REACH LABS USE ONLY. DO NOT SHARE.
+Authored by Hunter. This is alpha software. Contributions much appreciated!
 
 ## Running it
 After installing dependancies, run:
